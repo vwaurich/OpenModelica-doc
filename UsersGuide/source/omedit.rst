@@ -570,26 +570,28 @@ Shape context menu         Right Mouse + Shift
 Predefined views (Isometric, Side, Front, Top) can be selected and the scene can be tilted by 90° either clock or anticlockwise with the rotation buttons.
 
 Additional Visualization Features
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The shapes that are displayed in the viewer can be selected with shift + right click.
 If a shape is selected, a context menu pops up that offers additional visualization features
  
-.. figure :: media/pick-shape.png
+.. figure :: media/pick_shape.png
   :name: A context menu to set additional visualization features for the selected shape.
 
 The following features can be selected:
 
-========================  ================================================ 
+========================  ================================================================================================ 
   Menu                      Description                  
-========================  ================================================ 
+========================  ================================================================================================ 
 Change Transparency       The shape becomes either transparent or intransparent.
 Make Shape Invisible      The shape becomes invisible.
 Change Color              A color dialog pops up and the color of the shape can be set.
 Apply Check Texture       A checked texture is applied to the shape.
 Apply Custom Texture      A file selection dialog pops up and an image fil can be selected as a texture.
-========================  ================================================ 
+Remove Texture            Removes the current texture of the shape.
+========================  ================================================================================================ 
 
-.. figure :: media/visual-features.png
+|
+.. figure :: media/visual_features.png
   :name: Different visualization features.
 
 
