@@ -586,7 +586,7 @@ Change Transparency       The shape becomes either transparent or intransparent.
 Make Shape Invisible      The shape becomes invisible.
 Change Color              A color dialog pops up and the color of the shape can be set.
 Apply Check Texture       A checked texture is applied to the shape.
-Apply Custom Texture      A file selection dialog pops up and an image fil can be selected as a texture.
+Apply Custom Texture      A file selection dialog pops up and an image file can be selected as a texture.
 Remove Texture            Removes the current texture of the shape.
 ========================  ================================================================================================ 
 
